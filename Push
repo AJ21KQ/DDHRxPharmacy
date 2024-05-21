@@ -1,0 +1,3 @@
+git rm credentials.json
+git commit -m "Remove sensitive credentials"
+git push origin main
